@@ -87,16 +87,6 @@ Slicers let the viewer filter the dashboard interactively.
 2. Open in Microsoft Excel (2016 or later; slicers required).
 3. Go to the **Dashboard Sheet** tab and use the slicers to filter.
 
-## 📁 Repository Structure
-
-```
-bike-buyers-excel-dashboard/
-├── Excel_Project_Dataset.xlsx
-├── images/
-│   └── dashboard.png
-└── README.md
-```
-
 ## 🧠 Skills Demonstrated
 
 Data cleaning · Duplicate removal · Nested IF formulas · Pivot Tables & Charts · Slicers · Dashboard design · Customer segmentation · Business insight writing
