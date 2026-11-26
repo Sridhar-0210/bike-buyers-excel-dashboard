@@ -56,7 +56,7 @@ Three pivot tables feed three charts on the dashboard:
 Slicers let the viewer filter the dashboard interactively.
 
 <!-- Add your dashboard screenshot below after uploading it to the images folder -->
-![Dashboard](images/dashboard.png)
+![Dashboard](dashboard.png)
 
 ## 🔍 Key Insights
 
